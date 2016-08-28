@@ -6,3 +6,4 @@ https://github.com/blackmius/d2jsScripts
 https://github.com/realgrace/Dota-2-Scripts
 https://github.com/ArgentumGaming4ever/Dota2JS
 https://github.com/TheKako/Dota2JS
+https://github.com/lowrae/dota22/
